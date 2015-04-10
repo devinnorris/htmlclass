@@ -8,22 +8,22 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/davidand36/SimpleExpressServerForHeroku.git"
+    "url": "https://github.com/devinnorris/htmlclass.git"
   },
   "keywords": [
     "express",
     "static",
     "heroku"
   ],
-  "author": "David M. Anderson",
+  "author": "Devin L. Norris",
   "license": "GPL 3.0",
   "bugs": {
-    "url": "https://github.com/davidand36/SimpleExpressServerForHeroku/issues"
+    "url": "https://github.com/devinnorris/htmlclass/issues"
   },
   "engines": {
       "node": "0.10.x"
   },
-  "homepage": "https://github.com/davidand36/SimpleExpressServerForHeroku",
+  "homepage": "https://github.com/devinnorris/htmlclass",
   "dependencies": {
     "compression": "^1.0.9",
     "express": "^4.7.2",
